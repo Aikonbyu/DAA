@@ -28,9 +28,8 @@ def sentinelLinearSearch(array, key):            //2
 
 Dari perhitunga tersebut didapatkan:
 
-````bash
 ```bash
 T(n)    = 2+3+3+1+n+2n+3+5+1
         = 3n+18
 O(n)
-````
+```
